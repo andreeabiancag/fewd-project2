@@ -190,11 +190,10 @@ footer li{
     
 }
 
-.col {
-    float: left;
-    width: calc(50% - 20px);
-    margin-bottom: 0;
-}
+.col {float:left;
+    margin-bottom:0;
+    width:50%;}
+ 
 
   .contact{
       text-align: center;
@@ -256,9 +255,11 @@ text-align: left;
     margin-top: 60px;
     border-radius: 30%;
 }
+
 .col {
     width: calc(33.333% - 20px);
   }
+  
  .my-skills{
      width: 45%;
      margin-left:40px;
